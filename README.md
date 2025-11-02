@@ -7,12 +7,12 @@ A simple Python script that connects to an AI text-generation API (OpenRouter) w
 - Moderation logic to filter or redact unsafe content
 
 # Features
-✅ Accepts user prompts dynamically (via terminal input)
-✅ Uses a system prompt to guide AI behavior
-✅ Sends requests to an AI text-generation API (OpenRouter or Hugging Face)
-✅ Input moderation — blocks disallowed content before sending
-✅ Output moderation — redacts unsafe words from AI responses
-✅ Clear messages when moderation or API errors occur
+- Accepts user prompts dynamically (via terminal input)
+- Uses a system prompt to guide AI behavior
+- Sends requests to an AI text-generation API (OpenRouter or Hugging Face)
+-  Input moderation — blocks disallowed content before sending
+- Output moderation — redacts unsafe words from AI responses
+- Clear messages when moderation or API errors occur
 
 
 # How It Works
